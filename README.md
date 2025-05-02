@@ -73,6 +73,10 @@ The Hellum Campus Tour Bot serves as an interactive physical tour guide for visi
 
 6. Interact with the tour bot by typing your questions in the chat interface as you go
 
+## Campus Tour Bot Architecture
+
+![alt text](CampusTourBotArchitecture1.png)
+
 ## Robot Navigation Features
 
 The Hellum Campus Tour Bot is integrated with custom hardware that enables physical navigation around campus. Key features include:
@@ -110,6 +114,14 @@ The application can be deployed using:
 3. **Custom Mobile App**: Companion app for users to interact with the robot
 
 Remember to set up environment variables securely on your chosen platform.
+
+## Robo Images
+
+Campus Tour Bot:
+![alt text](Campus_tour_bot.jpg)
+
+Campus Tour Bot Inmaking:
+![alt text](Campus_tour_bot_inmaking.jpg)
 
 ## Contributing
 
